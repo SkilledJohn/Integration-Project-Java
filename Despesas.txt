@@ -1,0 +1,52 @@
+1  |  ABC-1001  |  Abastecimento  |  Combustível
+2  |  ABC-1002  |  Troca de óleo  |  Manutenção
+3  |  ABC-1003  |  Seguro anual  |  Seguro
+4  |  ABC-1004  |  IPVA do Ano  |  IPVA
+5  |  ABC-1005  |  Excesso de velocidade  |  Multas
+6  |  ABC-1006  |  Estacionamento rotativo  |  Estacionamento
+7  |  ABC-1007  |  Tarifa rodoviária  |  Pedágio
+8  |  ABC-1008  |  Gasolina comum  |  Combustível
+9  |  ABC-1009  |  Troca de pastilhas de freio  |  Manutenção
+10  |  ABC-1010  |  Renovação de apólice  |  Seguro
+11  |  ABC-1011  |  IPVA do Ano  |  IPVA
+12  |  ABC-1012  |  Estacionamento proibido  |  Multas
+13  |  ABC-1013  |  Zona azul  |  Estacionamento
+14  |  ABC-1014  |  Pedágio estadual  |  Pedágio
+15  |  ABC-1015  |  Etanol  |  Combustível
+16  |  ABC-1016  |  Troca de bateria  |  Manutenção
+17  |  ABC-1017  |  Cobertura total  |  Seguro
+18  |  ABC-1018  |  IPVA do Ano  |  IPVA
+19  |  ABC-1019  |  Avanço de sinal  |  Multas
+20  |  ABC-1020  |  Estacionamento privado  |  Estacionamento
+21  |  ABC-1001  |  Abastecimento  |  Combustível
+22  |  ABC-1002  |  Troca de óleo  |  Manutenção
+23  |  ABC-1003  |  Seguro anual  |  Seguro
+24  |  ABC-1004  |  IPVA do Ano  |  IPVA
+25  |  ABC-1005  |  Excesso de velocidade  |  Multas
+26  |  ABC-1001  |  Abastecimento  |  Combustível
+27  |  ABC-1002  |  Troca de óleo  |  Manutenção
+28  |  ABC-1010  |  Renovação de apólice  |  Seguro
+29  |  ABC-1010  |  Renovação de apólice  |  Seguro
+30  |  ABC-1015  |  Etanol  |  Combustível
+31  |  ABC-1015  |  Etanol  |  Combustível
+32  |  ABC-1020  |  Estacionamento privado  |  Estacionamento
+33  |  ABC-1020  |  Estacionamento privado  |  Estacionamento
+34  |  ABC-1025  |  IPVA do Ano  |  IPVA
+35  |  ABC-1025  |  IPVA do Ano  |  IPVA
+36  |  ABC-1030  |  Troca de filtros  |  Manutenção
+37  |  ABC-1031  |  Assistência 24h  |  Seguro
+38  |  ABC-1031  |  Assistência 24h  |  Seguro
+39  |  ABC-1035  |  Concessionária  |  Pedágio
+40  |  ABC-1035  |  Concessionária  |  Pedágio
+41  |  ABC-1040  |  Conversão proibida  |  Multas
+42  |  ABC-1041  |  Aeroporto  |  Estacionamento
+43  |  ABC-1045  |  Seguro premium  |  Seguro
+44  |  ABC-1045  |  Seguro premium  |  Seguro
+45  |  ABC-1048  |  Garagem mensal  |  Estacionamento
+46  |  ABC-1048  |  Garagem mensal  |  Estacionamento
+47  |  ABC-1050  |  Gasolina comum  |  Combustível
+48  |  ABC-1050  |  Gasolina comum  |  Combustível
+49  |  ABC-1001  |  Abastecimento  |  Combustível
+50  |  ABC-1002  |  Troca de óleo  |  Manutenção
+51  |  ABC-1002  |  IPVA do Ano  |  IPVA
+52  |  ABC-1003  |  Multas  |  Conversão proibida
